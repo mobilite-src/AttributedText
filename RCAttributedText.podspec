@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |spec|
-  spec.name         = "AttributedText"
+  spec.name         = "RCAttributedText"
   spec.version      = "1.1.0"
   spec.summary      = "AttributedText support for SwiftUI"
   spec.description  = "AttributedText is a Swift µpackage that provides NSAttributedString rendering in SwiftUI by wrapping either an NSTextView or a UITextView depending on the platform."
